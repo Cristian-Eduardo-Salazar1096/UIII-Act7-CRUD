@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "146837610072",
+    "project_id": "dboxxo-6a039",
+    "storage_bucket": "dboxxo-6a039.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146837610072:android:915d1fba9fb9e8008df42d",
+        "android_client_info": {
+          "package_name": "com.example.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPjGQS5xlq0e132zsVbD8OIOmqrYip1Ek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
