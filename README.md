@@ -1,16 +1,18 @@
-# myapp
+# UIII-Act7-CRUD
 
-A new Flutter project.
+## Productos
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/667242a4-057a-41ce-8319-1e31ed2b7188)
 
-This project is a starting point for a Flutter application.
+## Editar
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/user-attachments/assets/a7d8c63e-b9ec-4fd4-aeef-eb467b1b0b87)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Agregar
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/user-attachments/assets/ee8d7441-e9c9-46f8-b420-805efd4659ca)
+
+## Eliminar
+
+![image](https://github.com/user-attachments/assets/2f9db635-8b6d-4251-b2c4-fbcbb6cbb5b9)
+![image](https://github.com/user-attachments/assets/eb2e10fb-2417-49dd-9d64-d53427913eee)
